@@ -2,6 +2,8 @@
 
 This repo contains my [QMK](https://qmk.fm/) keymap file for the [Ferris Sweep](https://github.com/davidphilipbarr/Sweep) keyboard.
 
+This keymap was heavily inspired by [Ben Vallack](https://www.youtube.com/watch?v=8wZ8FRwOzhU).
+
 ## Layers
 
 A high level overview of the layers in this keymap:
