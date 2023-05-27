@@ -6,11 +6,11 @@ This repo contains my [QMK](https://qmk.fm/) keymap file for the [Ferris Sweep](
 
 A high level overview of the layers in this keymap:
 
-0 - QWERTY
-1 - Symbols
-2 - Mouse
-3 - Numbers & Media
-4 - Function Keys
+- 0: QWERTY
+- 1: Symbols
+- 2: Mouse
+- 3: Numbers & Media
+- 4: Function Keys
 
 ## Links
 
