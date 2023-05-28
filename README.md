@@ -8,11 +8,11 @@ This keymap was heavily inspired by [Ben Vallack](https://www.youtube.com/watch?
 
 A high level overview of the layers in this keymap:
 
-- 0: QWERTY
-- 1: Symbols
-- 2: Mouse
-- 3: Numbers & Media
-- 4: Function Keys
+- Layer 0: QWERTY
+- Layer 1: Symbols & Numbers
+- Layer 2: Navigation & Media
+- Layer 3: Mouse
+- Layer 4: Gaming Mode
 
 ## Links
 
