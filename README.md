@@ -12,7 +12,6 @@ A high level overview of the layers in this keymap:
 - Layer 1: Symbols & Numbers
 - Layer 2: Navigation & Media
 - Layer 3: Mouse
-- Layer 4: Gaming Mode
 
 ## Links
 
