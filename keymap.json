@@ -37,9 +37,9 @@
       "KC_COMM",
       "KC_DOT",
       "RCTL_T(KC_SLSH)",
-      "KC_BSPC",
-      "LGUI_T(KC_SPC)",
       "KC_ENT",
+      "LGUI_T(KC_SPC)",
+      "KC_BSPC",
       "TO(1)"
     ],
     [
@@ -74,8 +74,8 @@
       "KC_RBRC",
       "KC_BSLS",
       "TO(0)",
-      "KC_LGUI",
-      "KC_RSFT",
+      "LGUI_T(KC_SPC)",
+      "RSFT_T(KC_BSPC)",
       "TO(2)"
     ],
     [
@@ -88,7 +88,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
+      "KC_DEL",
       "KC_TAB",
       "KC_MPRV",
       "KC_MPLY",
@@ -110,8 +110,8 @@
       "KC_END",
       "KC_NO",
       "TO(0)",
-      "KC_LGUI",
-      "KC_RSFT",
+      "LGUI_T(KC_SPC)",
+      "RSFT_T(KC_BSPC)",
       "TO(3)"
     ],
     [
@@ -146,8 +146,8 @@
       "KC_WH_R",
       "KC_NO",
       "TO(0)",
-      "KC_NO",
-      "KC_BTN1",
+      "LGUI_T(KC_SPC)",
+      "RSFT_T(KC_BSPC)",
       "TO(4)"
     ],
     [
@@ -160,7 +160,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "TO(0)",
+      "KC_NO",
       "KC_LSFT",
       "KC_A",
       "KC_S",
@@ -181,7 +181,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_TAB",
+      "TO(0)",
       "KC_SPC",
       "KC_NO",
       "KC_NO"
